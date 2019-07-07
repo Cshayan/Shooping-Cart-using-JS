@@ -1,0 +1,131 @@
+{
+    "items": [{
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "Lois Caron LCS-8075 BLUE",
+                "price": 312,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product1.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "title": "Fogg 1164-BR Brown",
+                "price": 331,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product2.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "title": "Casio A1323 Youth",
+                "price": 2796,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product3.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "title": "Maxima O-46863CMGI Analog Watch",
+                "price": 839,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product4.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "title": "Sonata 77085PP04 Volt Analog Watch",
+                "price": 649,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product5.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "title": "Fossil CH2599 Decker Analog Watch ",
+                "price": 3572,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product6.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "title": "WANTON silve strap sober Analog Watch",
+                "price": 199,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product7.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "title": "Fastrack NG38004PP06CJ Tees Analog Watch",
+                "price": 795,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/product8.jpeg"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
