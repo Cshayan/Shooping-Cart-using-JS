@@ -7,4 +7,3 @@
 The user can add products in the cart, increase or decrease their amount in cart, remove any specific item,
 and also clear the whole cart.
 
-Live Demo:- https://codepen.io/CShayan/pen/rEBGgP
